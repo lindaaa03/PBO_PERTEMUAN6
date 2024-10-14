@@ -1,0 +1,35 @@
+body {
+  background-image: url("pemandangan.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 300px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.545);
+  border-radius: 10px;
+  padding: 20px;
+  max-width: 1435px;
+  margin-left: 50px;
+  margin-right: 500px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  color: #0f1a8c;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+.checkmark {
+  color: blue;
+  font-size: 1.2em;
+}
